@@ -55,4 +55,5 @@ The following workflow illustrates the data flow from dataset preparation to fin
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/thejasaai-hub/Waste-Management-System.git
+   git clone https://github.com/thejasaai-hub/Waste-Management-System---Biodegradable-and-Non-Biodegradable-Classification
+.git
